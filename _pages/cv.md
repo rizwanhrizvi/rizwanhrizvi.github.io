@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download my CV from [here](assets/files/my-cv.pdf)
 
 Education
 ======
@@ -20,7 +21,7 @@ Work experience
   * Syracuse University
   * Supervisor: [Dr. Yuzhe (Richard) Tang](https://tristartom.github.io/) 
 
-*  Software Engineer (Feb, 2024 - July, 2025)
+* Software Engineer (Feb, 2024 - July, 2025)
   * Samsung R&D Institute Bangladesh
   * Contributed in Samsung Galaxy Watch 8 development
   
