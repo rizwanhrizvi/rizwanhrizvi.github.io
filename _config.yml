@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"   # you can leave as default or change to "air"
 title                    : "Md Rizwanul Haque"
 title_separator          : "-"
-name                     : &name "Md Rizwanul Haque"
-description              : &description "PhD Student"
+name                     : "Md Rizwanul Haque"
+description              : "PhD Student"
 url                      : "https://rizwanhrizvi.github.io"  # replace 'yourusername' with your GitHub username
 baseurl                  : ""  # leave empty for GitHub Pages
 repository               : "rizwanhrizvi/rizwanhrizvi.github.io"  # replace with your repo name
@@ -23,13 +23,12 @@ repository               : "rizwanhrizvi/rizwanhrizvi.github.io"  # replace with
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Md Rizwanul Haque"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD Student | CyberSecurity | Blockchain | LLM"
+  location         : "Syracuse, NY, USA"
+  employer         : "[Dept of EECS](https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science) | [Syracuse University](https://www.syracuse.edu)"
+  email            : "mhaque04@syr.edu" 
 
   # Academic websites
   academia         : # URL
@@ -37,9 +36,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rizwanhrizvi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
