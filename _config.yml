@@ -28,13 +28,13 @@ author:
   bio              : "PhD Student | CyberSecurity | Blockchain | LLM"
   location         : "Syracuse, NY, USA"
   employer         : "Dept. of EECS, Syracuse University"
-  uri              : "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science"
+  uri              : # "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science"
   email            : "mhaque04@syr.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yLb4ngtbCd-VslVPr6sKJr_11iXShH537vREI5TOarok6jb_pHhcPkRL-xTalWqTiKFy6dtl3wZe27mQ&user=l7LdxeUAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
