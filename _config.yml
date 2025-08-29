@@ -29,7 +29,8 @@ author:
   location         : "Syracuse, NY, USA"
   employer         : "Dept. of EECS, Syracuse University"
   uri              : # "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science"
-  email            : "mhaque04@syr.edu" 
+  email            : "mailto:mhaque04@syr.edu"
+
 
   # Academic websites
   academia         : # URL
