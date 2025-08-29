@@ -29,7 +29,7 @@ author:
   location         : "Syracuse, NY, USA"
   employer         : "Dept. of EECS, Syracuse University"
   uri              : # "https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science"
-  email            : "mailto:mhaque04@syr.edu"
+  email            : "mhaque04@syr.edu"
 
 
   # Academic websites
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "md-rizwanul-haque-7189051a0"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -218,18 +218,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
